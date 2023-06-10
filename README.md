@@ -15,8 +15,8 @@ Voice-assisted Reading: A unique feature of this library is the ability to read 
 # Getting Started:
 To use the Library Management System, you need to have Python 3.x installed on your system. Additionally, you will need to install the following libraries:
 
-+) PyPDF2 (pip install PyPDF2): Required for reading PDF books.
-+) gTTS (pip install gTTS): Used to generate audio output from text content.
-+) pygame (pip install pygame): Allows for playing audio to enable voice-assisted book reading.
+- PyPDF2 (pip install PyPDF2): Required for reading PDF books.
+- gTTS (pip install gTTS): Used to generate audio output from text content.
+- pygame (pip install pygame): Allows for playing audio to enable voice-assisted book reading.
 
 Please refer to the project's README file for detailed instructions on how to set up and use the Library Management System.
